@@ -3,6 +3,10 @@
   "availabe_posts":[
       {
         "id":1,
+        "pickup-location":"G4 block, Johar Town, Lahore",
+        "dropoff-location":"G4 block, Johar Town, Lahore",
+        "date":"March 15, 2020",
+        "time":"12:08",
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
@@ -17,16 +21,14 @@
             "color":"white",
             "color_code":"#fff",
             "seats_left":4
-        },
-        "route_info":{
-          "pickup-location":"G4 block, Johar Town, Lahore",
-          "dropoff-location":"G4 block, Johar Town, Lahore",
-          "date":"March 15, 2020",
-          "time":"12:08"
         }
       },
       {
         "id":2,
+         "pickup-location":"G4 block, Johar Town, Lahore",
+        "dropoff-location":"G4 block, Johar Town, Lahore",
+        "date":"March 15, 2020",
+        "time":"12:08",
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
@@ -41,16 +43,14 @@
             "color":"white",
             "color_code":"#fff",
             "seats_left":4
-        },
-        "route_info":{
-          "pickup-location":"G4 block, Johar Town, Lahore",
-          "dropoff-location":"G4 block, Johar Town, Lahore",
-          "date":"March 15, 2020",
-          "time":"12:08"
         }
       },
       {
         "id":3,
+        "pickup-location":"G4 block, Johar Town, Lahore",
+        "dropoff-location":"G4 block, Johar Town, Lahore",
+        "date":"March 15, 2020",
+        "time":"12:08",
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
@@ -65,12 +65,6 @@
             "color":"white",
             "color_code":"#fff",
             "seats_left":4
-        },
-        "route_info":{
-          "pickup-location":"G4 block, Johar Town, Lahore",
-          "dropoff-location":"G4 block, Johar Town, Lahore",
-          "date":"March 15, 2020",
-          "time":"12:08"
         }
       }
    
