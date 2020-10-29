@@ -1,0 +1,75 @@
+{
+  
+  "availabe_posts":[
+      {
+        "driver_info":{
+            "name":"Asif Ali",
+            "phone_no":"03070690117",
+            "profile_image":"not",
+            "is_phone_verified":true,
+            "is_license_verified":true,
+            "is_cnic_verified":false
+        },
+        "vehicle_info":{
+            "type":"Honda City",
+            "registration_no":"LEX 2020",
+            "color":"white",
+            "color_code":"#fff",
+            "seats_left":4
+        },
+        "route_info":{
+          "pickup-location":"G4 block, Johar Town, Lahore",
+          "dropoff-location":"G4 block, Johar Town, Lahore",
+          "date":"March 15, 2020",
+          "time":"12:08"
+        }
+      },
+      {
+        "driver_info":{
+            "name":"Asif Ali",
+            "phone_no":"03070690117",
+            "profile_image":"not",
+            "is_phone_verified":true,
+            "is_license_verified":true,
+            "is_cnic_verified":false
+        },
+        "vehicle_info":{
+            "type":"Honda City",
+            "registration_no":"LEX 2020",
+            "color":"white",
+            "color_code":"#fff",
+            "seats_left":4
+        },
+        "route_info":{
+          "pickup-location":"G4 block, Johar Town, Lahore",
+          "dropoff-location":"G4 block, Johar Town, Lahore",
+          "date":"March 15, 2020",
+          "time":"12:08"
+        }
+      },
+      {
+        "driver_info":{
+            "name":"Asif Ali",
+            "phone_no":"03070690117",
+            "profile_image":"not",
+            "is_phone_verified":true,
+            "is_license_verified":true,
+            "is_cnic_verified":false
+        },
+        "vehicle_info":{
+            "type":"Honda City",
+            "registration_no":"LEX 2020",
+            "color":"white",
+            "color_code":"#fff",
+            "seats_left":4
+        },
+        "route_info":{
+          "pickup-location":"G4 block, Johar Town, Lahore",
+          "dropoff-location":"G4 block, Johar Town, Lahore",
+          "date":"March 15, 2020",
+          "time":"12:08"
+        }
+      }
+   
+  ]
+}
