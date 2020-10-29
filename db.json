@@ -2,7 +2,7 @@
   
   "availabe_posts":[
       {
-        "id"=1,
+        "id":1,
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
@@ -26,7 +26,7 @@
         }
       },
       {
-        "id"=2,
+        "id":2,
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id"=3,
+        "id":3,
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
