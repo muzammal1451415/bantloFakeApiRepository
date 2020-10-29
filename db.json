@@ -3,8 +3,10 @@
   "availabe_posts":[
       {
         "id":1,
-        "pickup-location":"G4 block, Johar Town, Lahore",
-        "dropoff-location":"G4 block, Johar Town, Lahore",
+        "pickup_city_name":"Lahore",
+        "pickup_location":"G4 block, Johar Town, Lahore",
+        "dropoff_city_name":"Faisalbad"
+        "dropoff_location":"Clock Tower, Faisalbad",
         "date":"March 15, 2020",
         "time":"12:08",
         "driver_info":{
