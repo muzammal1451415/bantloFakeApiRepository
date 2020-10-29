@@ -4,11 +4,17 @@
       {
         "id":1,
         "pickup_city_name": "Lahore",
-        "pickup_location": "G4 block, Johar Town, Lahore",
         "dropoff_city_name": "Faisalbad",
-        "dropoff_location": "Clock Tower, Faisalbad",
         "date": "March 15, 2020",
         "time": "12:08",
+        "location_info": {
+        "pickup_location": "G4 block, Johar Town, Lahore",
+        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location_lat":31.42423,
+         "pickup_location_lng":31.42423,
+         "dropoff_location_lat":31.42423",
+         "dropoff_location_lng":31.42423
+        },
         "driver_info":{
             "name":"Asif Ali",
             "phone_no":"03070690117",
