@@ -7,7 +7,7 @@
         "dropoff_city_name": "Faisalbad",
         "date": "March 15, 2020",
         "time": "12:08",
-        "location_info": {
+        "location_info":{
         "pickup_location": "G4 block, Johar Town, Lahore",
         "dropoff_location": "Clock Tower, Faisalbad",
         "pickup_location_lat":31.42423,
