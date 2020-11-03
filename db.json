@@ -11,10 +11,10 @@
         "location_info":{
         "pickup_location": "G4 block, Johar Town, Lahore",
         "dropoff_location": "Clock Tower, Faisalbad",
-        "pickup_location_lat":31.42423,
-         "pickup_location_lng":31.42423,
-         "dropoff_location_lat":31.42423,
-         "dropoff_location_lng":31.42423
+        "driver_latLng":{
+        latitute:31.452353,
+        longitude:73.746728
+        }
         }
         
       }
