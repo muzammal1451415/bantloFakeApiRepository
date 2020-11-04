@@ -8,7 +8,7 @@
         "date": "Friday",
         "time": "10:10",
         "vehicle_type":"Honda City",
-        "seats_left":4,
+        "seats_left":1,
         "driver_info":{
         "name":"Avatar",
         "is_phone_verified":false,
@@ -34,7 +34,7 @@
         "date": "Friday",
         "time": "10:10",
         "vehicle_type":"Honda City",
-        "seats_left":4,
+        "seats_left":2,
         "driver_info":{
         "name":"Bill Gates",
         "is_phone_verified":false,
@@ -60,7 +60,7 @@
         "date": "Friday",
         "time": "10:10",
         "vehicle_type":"Honda City",
-        "seats_left":4,
+        "seats_left":3,
         "driver_info":{
         "name":"Mark Zuckerberg",
         "is_phone_verified":false,
@@ -112,7 +112,7 @@
         "date": "Friday",
         "time": "10:10",
         "vehicle_type":"Honda City",
-        "seats_left":4,
+        "seats_left":5,
         "driver_info":{
         "name":"Yousuf Pathan",
         "is_phone_verified":false,
