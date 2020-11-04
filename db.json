@@ -8,6 +8,17 @@
         "date": "Friday",
         "time": "10:10",
         "details_link":"link",
+        "vehicle_type":"Honda City",
+        "seats_left":4,
+        "fare_per_seat":500,
+        "driver_info"{
+        "name":"Asif Ali",
+        "is_phone_verified":false,
+        "is_cnic_verified":true,
+        "is_license_verified":true,
+        "phone_number":"03070690117"
+        "image_url":"imageURL"
+         },
         "location_info":{
         "pickup_location": "G4 block, Johar Town, Lahore",
         "dropoff_location": "Clock Tower, Faisalbad",
@@ -15,67 +26,9 @@
         "latitute":31.5924933,
         "longitude":74.2677346
         }
-        }
-        
-      },
-    {
-        "id":2,
-        "pickup_city_name": "Lahore",
-        "dropoff_city_name": "Faisalbad",
-        "date": "Friday",
-        "time": "10:10",
-        "details_link":"link",
-        "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
-        "dropoff_location": "Clock Tower, Faisalbad",
-        "driver_latLng":{
-        "latitute":31.5629805, 
-        "longitude":74.2677346
-        }
-        }
-        
-      },
-    {
-        "id":3,
-        "pickup_city_name": "Lahore",
-        "dropoff_city_name": "Faisalbad",
-        "date": "Friday",
-        "time": "10:10",
-        "details_link":"link",
-        "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
-        "dropoff_location": "Clock Tower, Faisalbad",
-        "driver_latLng":{
-        "latitute":31.53712509999999,
-        "longitude":74.2677346
-        }
-        }
-        
+      
       }
      
-  ],
-  "rides_details":[
-    {
-    "id":1,
-    "driver_info":{
-      "name":"Asif Ali",
-      "is_phone_verified":false,
-      "is_cnic_verified":true,
-      "is_license_verified":true,
-      "image_url":"imageURL"
-    },
-    "route_info":{
-    "pickup_city_name": "Lahore",
-    "dropoff_city_name": "Faisalbad",
-    "date": "Friday",
-    "time": "10:10",
-    "pickup_location": "G4 block, Johar Town, Lahore",
-    "dropoff_location": "Clock Tower, Faisalbad",
-    "vehicle_type":"Honda City",
-    "seats_left":4,
-    "fare_per_seat":500
-    }
-      
-    }
   ]
+ 
 }
