@@ -10,7 +10,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Junaid Ali",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -36,7 +36,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Maria Memon",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -62,7 +62,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Hassan Ali",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -88,7 +88,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Wahab Riaz",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -114,7 +114,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Yousuf Pathan",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -140,7 +140,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Noreen Shehzadi",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -166,7 +166,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Junaid Bashir",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -192,7 +192,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Arif Layaqat",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
@@ -218,7 +218,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Asif Ali",
+        "name":"Muzammal Abdul Ghafoor",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
