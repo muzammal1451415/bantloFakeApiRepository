@@ -7,10 +7,8 @@
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
         "time": "10:10",
-        "details_link":"link",
         "vehicle_type":"Honda City",
         "seats_left":4,
-        "fare_per_seat":500,
         "driver_info":{
         "name":"Asif Ali",
         "is_phone_verified":false,
