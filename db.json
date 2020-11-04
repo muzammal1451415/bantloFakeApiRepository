@@ -16,7 +16,7 @@
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
-        "phone_number":"03070690117"
+        "phone_number":"03070690117",
         "image_url":"imageURL"
          },
         "location_info":{
