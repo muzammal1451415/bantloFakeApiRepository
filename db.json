@@ -11,9 +11,9 @@
         "seats_left":1,
         "driver_info":{
         "name":"Avatar",
-        "is_phone_verified":false,
+        "is_phone_verified":true,
         "is_cnic_verified":true,
-        "is_license_verified":true,
+        "is_license_verified":false,
         "phone_number":"03070690117",
         "image_url":"https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png"
          },
@@ -38,7 +38,7 @@
         "driver_info":{
         "name":"Bill Gates",
         "is_phone_verified":false,
-        "is_cnic_verified":true,
+        "is_cnic_verified":false,
         "is_license_verified":true,
         "phone_number":"03070690117",
         "image_url":"https://www.pngfind.com/pngs/m/14-141883_mark-zuckerberg-png-transparent-image-.png"
@@ -64,8 +64,8 @@
         "driver_info":{
         "name":"Mark Zuckerberg",
         "is_phone_verified":false,
-        "is_cnic_verified":true,
-        "is_license_verified":true,
+        "is_cnic_verified":false,
+        "is_license_verified":false,
         "phone_number":"03070690117",
         "image_url":"https://www.freepngimg.com/thumb/mark_zuckerberg/70347-programming-mark-zuckerberg-entrepreneur-computer-facebook-code.org.png"
          },
@@ -89,7 +89,7 @@
         "seats_left":4,
         "driver_info":{
         "name":"Wahab Riaz",
-        "is_phone_verified":false,
+        "is_phone_verified":true,
         "is_cnic_verified":true,
         "is_license_verified":true,
         "phone_number":"03070690117",
@@ -115,8 +115,8 @@
         "seats_left":5,
         "driver_info":{
         "name":"Yousuf Pathan",
-        "is_phone_verified":false,
-        "is_cnic_verified":true,
+        "is_phone_verified":true,
+        "is_cnic_verified":false,
         "is_license_verified":true,
         "phone_number":"03070690117",
         "image_url":"imageURL"
