@@ -10,12 +10,12 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Junaid Ali",
+        "name":"Avatar",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
         "phone_number":"03070690117",
-        "image_url":"imageURL"
+        "image_url":"https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png"
          },
         "location_info":{
         "pickup_location": "G4 block, Johar Town, Lahore",
@@ -36,12 +36,12 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Maria Memon",
+        "name":"Bill Gates",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
         "phone_number":"03070690117",
-        "image_url":"imageURL"
+        "image_url":"https://www.pngfind.com/pngs/m/14-141883_mark-zuckerberg-png-transparent-image-.png"
          },
         "location_info":{
         "pickup_location": "G4 block, Johar Town, Lahore",
@@ -62,12 +62,12 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "driver_info":{
-        "name":"Hassan Ali",
+        "name":"Mark Zuckerberg",
         "is_phone_verified":false,
         "is_cnic_verified":true,
         "is_license_verified":true,
         "phone_number":"03070690117",
-        "image_url":"imageURL"
+        "image_url":"https://www.freepngimg.com/thumb/mark_zuckerberg/70347-programming-mark-zuckerberg-entrepreneur-computer-facebook-code.org.png"
          },
         "location_info":{
         "pickup_location": "G4 block, Johar Town, Lahore",
