@@ -11,7 +11,7 @@
         "vehicle_type":"Honda City",
         "seats_left":4,
         "fare_per_seat":500,
-        "driver_info"{
+        "driver_info":{
         "name":"Asif Ali",
         "is_phone_verified":false,
         "is_cnic_verified":true,
