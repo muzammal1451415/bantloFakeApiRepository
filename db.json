@@ -53,5 +53,29 @@
         
       }
      
+  ],
+  "rides_details":[
+    {
+    "id":1,
+    "driver_info":{
+      "name":"Asif Ali",
+      "is_phone_verified":false,
+      "is_cnic_verified":true,
+      "is_license_verified":true,
+      "image_url":"imageURL"
+    },
+    "route_info":{
+    "pickup_city_name": "Lahore",
+    "dropoff_city_name": "Faisalbad",
+    "date": "Friday",
+    "time": "10:10",
+    "pickup_location": "G4 block, Johar Town, Lahore",
+    "dropoff_location": "Clock Tower, Faisalbad",
+    "vehicle_type":"Honda City",
+    "seats_left":4,
+    "fare_per_seat":500
+    }
+      
+    }
   ]
 }
