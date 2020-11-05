@@ -161,10 +161,23 @@
   ],
   "active_rides":[
       {
+        "id":1,
+        "date":"Friday",
+        "time":"10:10",
+        "estimated_time":"5h 10min",
+        "estimated_distance":"500km",
+        "seates_booked":2,
+        "total_fare":100
 
       },
       {
-
+        "id":2,
+        "date":"Friday",
+        "time":"10:10",
+        "estimated_time":"6h 10min",
+        "estimated_distance":"200km",
+        "seates_booked":3,
+        "total_fare":400
       }
 
   ]
