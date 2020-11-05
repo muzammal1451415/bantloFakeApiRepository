@@ -181,6 +181,54 @@
           "seates_booked":2
         }
 
+    ],
+    "active_rides":[
+      {
+        "passenger_id":1,
+        "rides":[
+          {
+            "id":6,
+            "date": "March 29,2020",
+            "time": "10:10",
+            "vehicle_info":{
+              "vehicle_type":"Honda City",
+              "registration_no":"LEX 9493",
+              "color_code":"#fff",
+              "color_name":"Red",
+              "total_seats":5
+           
+            },
+            "pricing":{
+              "fare_per_seat":400,
+              "booked_seats":2,
+              "total_fare":800
+            },
+            "driver_info":{
+            "name":"Noreen Shehzadi",
+            "is_phone_verified":false,
+            "is_cnic_verified":true,
+            "is_license_verified":true,
+            "phone_number":"03070690117",
+            "image_url":"imageURL"
+            },
+            "location_info":{
+            "pickup_city_name": "Lahore",
+            "dropoff_city_name": "Faisalbad",
+            "pickup_location": "G4 block, Johar Town, Lahore",
+            "dropoff_location": "Clock Tower, Faisalbad",
+            "driver_latLng":{
+            "latitute":31.5924933,
+            "longitude":74.2677346
+            }
+          
+          }
+          
+        },
+          {
+
+          }
+        ]
+      }
     ]
 
   
