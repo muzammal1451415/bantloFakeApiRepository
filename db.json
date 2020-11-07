@@ -223,8 +223,7 @@
       "id":1,
       "passenger_id":1,
       "driver_id":1,
-      "date": "Friday",
-      "time": "10:10"
+      "date_time":"Tuesday March 12 2020, 12:10 PM"
     }
   ]
 
