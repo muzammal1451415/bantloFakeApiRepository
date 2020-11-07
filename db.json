@@ -225,6 +225,13 @@
       "driver_id":1,
       "date_time":"Tuesday March 12 2020, 12:10 PM",
       "cancelled_reason": "None"
+    },
+      {
+      "id":2,
+      "passenger_id":1,
+      "driver_id":1,
+      "date_time":"Tuesday March 12 2020, 12:10 PM",
+      "cancelled_reason": "None"
     }
   ]
 
