@@ -217,6 +217,15 @@
         "seates_booked":2
       }
 
+  ],
+  "cancelled_rides":[
+    {
+      "id:":1,
+      "passenger_id":1,
+      "driver_id":1,
+      "date": "Friday",
+      "time": "10:10"
+    }
   ]
 
 }
