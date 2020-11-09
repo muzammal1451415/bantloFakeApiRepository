@@ -241,6 +241,16 @@
     "driver_id":1,
     "date_time":"Tuesday March 12 2020, 12:10 PM"
     }
+  ],
+  "users":[
+    {
+      "id":1,
+      "phone_number":"03070690117",
+      "name":"Haider Ali",
+      "gender":"Male",
+      "address":"Shahkot, Punjab, Pakistan"
+    }
   ]
+   
 
 }
