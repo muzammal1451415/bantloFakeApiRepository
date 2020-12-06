@@ -3,6 +3,8 @@
   "availabe_posts":[
       {
         "id":1,
+        "post_id":1,
+        "notification_token":"",
         "pickup_city_name": "Lahore",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
@@ -35,6 +37,8 @@
       },
     {
         "id":2,
+        "post_id":1,
+        "notification_token":"",
         "pickup_city_name": "Lahore",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
@@ -67,6 +71,8 @@
       },
     {
         "id":3,
+                "post_id":1,
+        "notification_token":"",
         "pickup_city_name": "Lahore",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
@@ -99,6 +105,8 @@
       }
     ,{
         "id":4,
+                "post_id":1,
+        "notification_token":"",
         "pickup_city_name": "Lahore",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
@@ -131,6 +139,8 @@
     },
     {
         "id":5,
+                "post_id":1,
+        "notification_token":"",
         "pickup_city_name": "Lahore",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
@@ -163,6 +173,8 @@
       },
     {
         "id":6,
+                "post_id":1,
+        "notification_token":"",
         "pickup_city_name": "Lahore",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
