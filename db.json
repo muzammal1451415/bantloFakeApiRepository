@@ -5,7 +5,7 @@
         "id":1,
         "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Lahore",
+        "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
         "time": "10:10",
@@ -26,7 +26,7 @@
         "image_url":"https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png"
         },
         "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
+        "pickup_location": "Word no 9, Abadi dultan, Shahkot",
         "dropoff_location": "Clock Tower, Faisalbad",
         "driver_latLng":{
         "latitute":31.578357,
@@ -39,7 +39,7 @@
         "id":2,
         "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Lahore",
+        "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
         "time": "10:10",
@@ -60,7 +60,7 @@
         "image_url":"https://www.pngfind.com/pngs/m/14-141883_mark-zuckerberg-png-transparent-image-.png"
         },
         "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
+        "pickup_location": "Sahi Road,Shahkot",
         "dropoff_location": "Clock Tower, Faisalbad",
         "driver_latLng":{
         "latitute":31.586638,
@@ -73,7 +73,7 @@
         "id":3,
                 "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Lahore",
+        "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
         "time": "10:10",
@@ -94,7 +94,7 @@
         "image_url":"https://www.freepngimg.com/thumb/mark_zuckerberg/70347-programming-mark-zuckerberg-entrepreneur-computer-facebook-code.org.png"
         },
         "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
+        "pickup_location": "Madni chowk, near Ahl-e-hadees masjid, Shahkot",
         "dropoff_location": "Clock Tower, Faisalbad",
         "driver_latLng":{
         "latitute":31.585526,
@@ -107,7 +107,7 @@
         "id":4,
                 "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Lahore",
+        "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
         "date": "Friday",
         "time": "10:10",
@@ -128,7 +128,7 @@
         "image_url":"imageURL"
         },
         "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
+        "pickup_location": "Darbar Road, Shahkot",
         "dropoff_location": "Clock Tower, Faisalbad",
         "driver_latLng":{
         "latitute":31.576769,
