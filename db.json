@@ -3,7 +3,7 @@
   "availabe_posts":[
       {
         "id":1,
-        "post_id":1,
+        "post_id":3,
         "notification_token":"cDbdJuqrTVW6qHtuowsISd:APA91bHxP23UxtgxtrjimBAg3uH-aYNoaovYITO6J8ws42udsXooaoIGBwx_aFPXvWemATF84zslIlTGtdS_IzwEkZU2jzuHLuI_Li4orrI09IzY0xMfHMH6Tg7ScEV25G_glauxi_RR",
         "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
@@ -37,7 +37,7 @@
       },
     {
         "id":2,
-        "post_id":1,
+        "post_id":3,
         "notification_token":"cDbdJuqrTVW6qHtuowsISd:APA91bHxP23UxtgxtrjimBAg3uH-aYNoaovYITO6J8ws42udsXooaoIGBwx_aFPXvWemATF84zslIlTGtdS_IzwEkZU2jzuHLuI_Li4orrI09IzY0xMfHMH6Tg7ScEV25G_glauxi_RR",
         "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
@@ -105,7 +105,7 @@
       }
     ,{
         "id":4,
-                "post_id":1,
+                "post_id":3,
         "notification_token":"",
         "pickup_city_name": "Shahkot",
         "dropoff_city_name": "Faisalbad",
