@@ -26,7 +26,7 @@
         "image_url":"https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png"
         },
         "location_info":{
-        "pickup_location": "Clock, towers, Faislabad",
+        "pickup_location": "Clock tower, Faislabad",
         "dropoff_location": "Shahdara, Lahore",
         "driver_latLng":{
         "latitute":31.578357,
@@ -60,7 +60,7 @@
         "image_url":"https://www.pngfind.com/pngs/m/14-141883_mark-zuckerberg-png-transparent-image-.png"
         },
         "location_info":{
-        "pickup_location": "Clock, towers, Faislabad",
+        "pickup_location": "Clock tower, Faislabad",
         "dropoff_location": "Gulberg III , Lahore",
         "driver_latLng":{
         "latitute":31.574856,
@@ -128,7 +128,7 @@
         "image_url":"imageURL"
         },
         "location_info":{
-        "pickup_location": "Clock, towers, Faislabad",
+        "pickup_location": "Clock tower, Faislabad",
         "dropoff_location": "Shahdara, Lahore",
         "driver_latLng":{
         "latitute":31.576769,
