@@ -5,8 +5,8 @@
         "id":1,
         "post_id":3,
         "notification_token":"fW9YJsjuSGaRcJoqajtBR3:APA91bFFxfuOkCX7g_eir2QDs87d6Uq5MOp6fY4eOGAaoHJW0XAFip8T8xyLCHOzxDNal0kVHHx9CGExrCl-xQNg7qnuFHIF1wEUDtfej4INcGYgDNnLnE497iTSgGo_uIeBfyc_XrdT",
-        "pickup_city_name": "Shahkot",
-        "dropoff_city_name": "Faisalbad",
+        "pickup_city_name": "Faislabad",
+        "dropoff_city_name": "Lahore",
         "date": "Friday",
         "time": "10:10",
         "seats_left":1,
@@ -26,8 +26,8 @@
         "image_url":"https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/10_avatar-512.png"
         },
         "location_info":{
-        "pickup_location": "Word no 9, Abadi dultan, Shahkot",
-        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location": "Clock, towers, Faislabad",
+        "dropoff_location": "Shahdara, Lahore",
         "driver_latLng":{
         "latitute":31.578357,
         "longitude":73.476080
@@ -39,8 +39,8 @@
         "id":2,
         "post_id":3,
         "notification_token":"fRVWK274Tpuu8q0OD2gKxn:APA91bF0U3cGKCqX2Hze8zBgn4-IgmFna4fDQBTtk7gpk9tk1OfK2vrVNxP3c5vYYwoMVylbEU1zeCIZgDMjJlFvdl6qo0gac09KcK-oD9Mq9iLzkRyAW9vvMFiNNeqGY_X_SWvTzQ4u",
-        "pickup_city_name": "Shahkot",
-        "dropoff_city_name": "Faisalbad",
+        "pickup_city_name": "Faislabad",
+        "dropoff_city_name": "Lahore",
         "date": "Friday",
         "time": "10:10",
         "seats_left":2,
@@ -60,8 +60,8 @@
         "image_url":"https://www.pngfind.com/pngs/m/14-141883_mark-zuckerberg-png-transparent-image-.png"
         },
         "location_info":{
-        "pickup_location": "Sahi Road,Shahkot",
-        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location": "Clock, towers, Faislabad",
+        "dropoff_location": "Gulberg III , Lahore",
         "driver_latLng":{
         "latitute":31.574856,
         "longitude":73.480332
@@ -73,8 +73,8 @@
         "id":3,
                 "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Shahkot",
-        "dropoff_city_name": "Faisalbad",
+        "pickup_city_name": "Faisalbad",
+        "dropoff_city_name": "Lahore",
         "date": "Friday",
         "time": "10:10",
         "seats_left":3,
@@ -94,8 +94,8 @@
         "image_url":"https://www.freepngimg.com/thumb/mark_zuckerberg/70347-programming-mark-zuckerberg-entrepreneur-computer-facebook-code.org.png"
         },
         "location_info":{
-        "pickup_location": "Madni chowk, near Ahl-e-hadees masjid, Shahkot",
-        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location": "Clock tower, Faislabad",
+        "dropoff_location": "Niazi chowk, Lahore",
         "driver_latLng":{
         "latitute":31.585526,
         "longitude":73.536917
@@ -107,8 +107,8 @@
         "id":4,
                 "post_id":3,
         "notification_token":"",
-        "pickup_city_name": "Shahkot",
-        "dropoff_city_name": "Faisalbad",
+        "pickup_city_name": "Faisalbad",
+        "dropoff_city_name": "Lahore",
         "date": "Friday",
         "time": "10:10",
         "seats_left":4,
@@ -128,8 +128,8 @@
         "image_url":"imageURL"
         },
         "location_info":{
-        "pickup_location": "Darbar Road, Shahkot",
-        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location": "Clock, towers, Faislabad",
+        "dropoff_location": "Shahdara, Lahore",
         "driver_latLng":{
         "latitute":31.576769,
         "longitude":73.477364
@@ -141,8 +141,8 @@
         "id":5,
                 "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Lahore",
-        "dropoff_city_name": "Faisalbad",
+        "pickup_city_name": "Faisalbad",
+        "dropoff_city_name": "Lahore",
         "date": "Friday",
         "time": "10:10",
         "seats_left":5,
@@ -162,8 +162,8 @@
         "image_url":"imageURL"
         },
         "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
-        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location": "Clock tower, Faislabad",
+        "dropoff_location": "Bandh road, Lahore",
         "driver_latLng":{
         "latitute":31.6211127,
         "longitude":74.2677346
@@ -175,8 +175,8 @@
         "id":6,
                 "post_id":1,
         "notification_token":"",
-        "pickup_city_name": "Lahore",
-        "dropoff_city_name": "Faisalbad",
+        "pickup_city_name": "Faisalbad",
+        "dropoff_city_name": "Lahore",
         "date": "Friday",
         "time": "10:10",
         "seats_left":4,
@@ -196,8 +196,8 @@
         "image_url":"imageURL"
         },
         "location_info":{
-        "pickup_location": "G4 block, Johar Town, Lahore",
-        "dropoff_location": "Clock Tower, Faisalbad",
+        "pickup_location": "Clock tower, Faislabad",
+        "dropoff_location": "Kalma chowk, Lahore",
         "driver_latLng":{
         "latitute":31.5924933,
         "longitude":74.2677346
